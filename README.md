@@ -1,5 +1,5 @@
 # Calcium-analysis
-GBM cells or nuclei are detected autonmatically by cellpose (GUI) to generate regions of interest (ROIs)
+GBM cells or nuclei are detected autonmatically by cellpose (GUI) to generate regions of interest (ROIs)  
       ↓
 Raw Fluorescence Data measured by imageJ  
       ↓
