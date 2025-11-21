@@ -5,20 +5,18 @@
 <p align="center">↓</p>  
 <p align="center">Baseline Correction (ΔF/F) → Smoothing (Savitzky-Golay)</p>  
 <p align="center">↓</p> 
-Peak Detection (find_peaks)
-      ↓
-Extract Peak Characteristics:
-    - Amplitude
-    - Width
-    - Frequency
-    - Period
-      ↓
-Aggregate Statistics (per region):
-    - Total Peaks
+<p align="center">Peak Detection (find_peaks)</p> 
+<p align="center">↓</p> 
+<p align="center">Extract Peak Characteristics:Amplitude, Width, Frequency, Period</p> 
+<p align="center">↓</p> 
+<p align="center">Aggregate Statistics (per region):  - Total Peaks
     - Mean Amplitude
     - Mean Width
     - Frequency
-    - Mean Period
+    - Mean Period</p> 
+
+
+   
       ↓
 Visualization:
     - Heatmaps
