@@ -1,9 +1,9 @@
 # Calcium-analysis
-GBM cells or nuclei are detected autonmatically by cellpose (GUI) to generate regions of interest (ROIs)  
+<p align="center">GBM cells or nuclei are detected autonmatically by cellpose (GUI) to generate regions of interest (ROIs)</p>  
 <p align="center">↓</p>  
-Raw Fluorescence Data measured by imageJ  
-      ↓
-Raw Fluorescence Data
+<p align="center">Raw Fluorescence Data measured by imageJ </p>   
+Raw Fluorescence Data measured by imageJ 
+<p align="center">↓</p>  
       ↓
 Baseline Correction (ΔF/F) → Smoothing (Savitzky-Golay)
       ↓
